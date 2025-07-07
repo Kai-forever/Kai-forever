@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kai-forever
+- 👋 Hi, I’m @Naeem
 - 👀 I’m interested in learning programming and languages
-- 🌱 I’m currently learning japanese language
+- 🌱 I’m currently learning C programming 
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me to there 
 
