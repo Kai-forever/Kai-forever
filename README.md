@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Naeem
+- 👋 Hi, I’m @Naeem, student of BSc.(Engnr.) in EEE 
 - 👀 I’m interested in learning programming and languages
 - 🌱 I’m currently learning C programming 
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me to there 
+  
 
 <!---
 Kai-forever/Kai-forever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
